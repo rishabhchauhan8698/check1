@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 hiiii
+=======
+
+
+
+
+
+jnksdalfjoujiowitojroijtlkrejl
+>>>>>>> 78bd5a7e9ceb1471b6f8f283a0914b19c8c172ac
